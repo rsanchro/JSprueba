@@ -1,2 +1,0 @@
-# JSprueba
-Created with CodeSandbox
